@@ -8,7 +8,7 @@ https://chrome.google.com/webstore/category/extensions?utm_source=chrome-ntp-ico
 
 搜索 free-ss.copy
 
-![image-20200425114731161](image-20200425114731161.png)
+
 
 添加至Chrome Extension即可。
 
