@@ -1,4 +1,4 @@
-# chrome-extension-for-free-ss.site
+# Chrome extension for free-ss.site
 
 主要功能为，把网页所给出的ss地址，批量转化为常用几种软件的配置文件，或批量链接。
 
